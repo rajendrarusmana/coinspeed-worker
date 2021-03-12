@@ -1,0 +1,2 @@
+INFLUX_ORG: "coinspeed"
+INFLUX_BUCKET: "cryptos"
